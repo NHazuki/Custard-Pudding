@@ -4,10 +4,10 @@ body {
   background-attachment: fixed;  
   background-size: cover;
   font-family: Monaco;
+  text-align: center;
 }
 
 h1{
-  text-align: center;
   color: Black;
   font-family: Lucida Handwriting;
   font-size: 50px;
