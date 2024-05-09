@@ -6,10 +6,12 @@ h1{
 }
 
 h2{
+  font-family: Monaco;
   font-size: 40px;
 }
 
 h3{
+  font-family: Monaco;
   font-size: 30px;
 }
 
@@ -24,6 +26,4 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
-  font-family: Monaco;
- 
 }
